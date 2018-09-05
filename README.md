@@ -22,11 +22,12 @@ PC: 4000
 
 ## Actividad 3: (C) 12 Píxeles en grupos de 2 del mismo color
 ```
+
 3E F3 32 00 C0 18 FE
 3E 03 32 01 C0 18 FE
 3E F3 32 02 C0 18 FE
 
-````
+```
 PC: 4000
 
 ## Actividad 4: (C) 8 Píxeles, de colores distintos
